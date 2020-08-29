@@ -25,6 +25,7 @@
  
  💓 Passions:
     👩🏽‍💻 Coding - Solving problems - Learning constantly 
+    📖 Writing 
     🎭 The Arts - Yes all of them! 
     💃🏼 Dancing - Singing
     💪🏼 Leadership - Mentorship
