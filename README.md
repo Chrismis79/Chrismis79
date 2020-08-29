@@ -3,16 +3,7 @@
 <!--
 **Chrismis79/Chrismis79** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
 🤝 My name is Christine Fletcher, I recently completed Lambda Schol Web Development & Computer Science school where I learned HTML, CSS, JavaScript, React, Node.js, and computer science basics of data structures and algorithms. 
 
@@ -27,9 +18,23 @@ Here are some ideas to get you started:
   
 📝 Blog: https://dev.to/chrismis79
 
-💬 Ask me: why I changed careers from nursing to coding. 
+💬 Ask me about: 
+     👩 Why I changed careers from nursing to coding. 
      🐶 My Dogs
      🌱 My Garden
+ 
+ 💓 Passions:
+    👩🏽‍💻 Coding - Solving problems - Learning constantly
+    🎭 The Arts - Yes all of them!
+    💃🏼 Dancing - Singing
+    💪🏼 Leadership - Mentorship
+    👩🏼‍🎨 Anything creative
+    
+    
+🌠 Fun Fact: My mom was a semi-pro bowler and I can rarely bowl over 100! 
+    
+    
+     
      
 
 
