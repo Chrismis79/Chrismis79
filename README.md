@@ -24,11 +24,12 @@
      🌱 My Garden
  
  💓 Passions:
-    👩🏽‍💻 Coding - Solving problems - Learning constantly
-    🎭 The Arts - Yes all of them!
+    👩🏽‍💻 Coding - Solving problems - Learning constantly 
+    🎭 The Arts - Yes all of them! 
     💃🏼 Dancing - Singing
     💪🏼 Leadership - Mentorship
     👩🏼‍🎨 Anything creative
+    🐛 Continual growth and improvement
     
     
 🌠 Fun Fact: My mom was a semi-pro bowler and I can rarely bowl over 100! 
