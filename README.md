@@ -5,11 +5,12 @@
 
 
 -->
-🤝 My name is Christine Fletcher, I recently completed Lambda Schol Web Development & Computer Science school where I learned HTML, CSS, JavaScript, React, Node.js, and computer science basics of data structures and algorithms. 
+🤝 My name is Christine Fletcher, I am a UI/UX designer / developer at capSpire on the Gravitate Best Buy and Dispatch team. 
+I completed Lambda Schol Web Development & Computer Science school in September 2020 where I learned HTML, CSS, JavaScript, React, Node.js, and computer science basics of data structures and algorithms. 
 
 😄 Pronouns: She/her
 
-✍️ I am currently learning more about computer science principles, React Native, and more about GraphQL.
+✍️ I am currently learning more about design principles, React, and React Native.
 
 📫 Contact me: Christine.Fletcher0101@gmail.com
 
